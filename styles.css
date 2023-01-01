@@ -1,0 +1,26 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.util {
+    border: 1px blue dotted;
+}
+
+.avatar {
+    width: 175px;
+}
+
+.container {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #2b2839;
+    background-color: #c5dedd;
+    border-radius: 24px;
+    box-shadow: 10px 10px #fad2e1;
+}
+
